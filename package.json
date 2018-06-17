@@ -1,0 +1,33 @@
+{
+    "author": "JCauchard",
+    "dependencies": {},
+    "keywords": [],
+    "name": "ambivibe2",
+    "pebble": {
+        "displayName": "Ambivibe2",
+        "enableMultiJS": false,
+        "messageKeys": {
+            "ping": 1,
+            "response": 0
+        },
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/logo.png",
+                    "name": "LOGO",
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite"
+        ],
+        "uuid": "7785c449-7eff-4999-a1e7-4a1dbc302900",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
